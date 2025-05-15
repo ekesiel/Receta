@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>La Mejor Receta de Lasagna</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>🍝 La Mejor Receta de Lasagna Casera</h1>
+    <p>Sabrosa, cremosa y 100% casera</p>
+  </header>
+
+  <section>
+    <h2>🛒 Ingredientes</h2>
+    <ul>
+      <li>500 g de carne picada (res o mixta)</li>
+      <li>12 láminas de lasagna</li>
+      <li>1 cebolla picada</li>
+      <li>2 dientes de ajo</li>
+      <li>800 g de tomate triturado</li>
+      <li>200 g de queso mozzarella</li>
+      <li>100 g de queso parmesano rallado</li>
+      <li>500 ml de bechamel</li>
+      <li>Sal, pimienta, orégano y albahaca</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>👩‍🍳 Instrucciones</h2>
+    <ol>
+      <li>Saltea la cebolla y el ajo en aceite de oliva.</li>
+      <li>Añade la carne picada y cocina hasta dorar.</li>
+      <li>Agrega el tomate, condimenta y cocina 20 minutos.</li>
+      <li>Hierve las láminas de lasagna si es necesario.</li>
+      <li>En una fuente, coloca capas: salsa de carne, pasta, bechamel y queso.</li>
+      <li>Repite las capas y termina con bechamel y parmesano.</li>
+      <li>Hornea a 180°C por 30-35 minutos hasta gratinar.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>📸 Imagen</h2>
+    <img src="https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/93ed89bfbdf04d2d46e155919d90c4df.jpg" alt="Lasagna casera deliciosa" class="receta-img">
+  </section>
+
+  <footer>
+    <p>© 2025 RecetasDeliciosas.com — Página creada por fans de la buena cocina.</p>
+  </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
